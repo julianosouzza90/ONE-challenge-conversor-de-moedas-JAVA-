@@ -1,0 +1,37 @@
+# Arquivos compilados
+*.class
+
+# Arquivos de build e deployment
+target/
+build/
+
+# Arquivos de configuração local
+application.properties
+application.yml
+config.properties
+config.yml
+
+# Arquivos de log
+*.log
+log/
+
+# Arquivos de backup
+*.bak
+*.swp
+
+# Arquivos de IDEs
+.idea/
+.vscode/
+
+# Dependências e bibliotecas
+/lib/
+/libs/
+
+# Arquivos gerados
+/bin/
+/generated/
+
+# Outros arquivos e diretórios
+*.iml
+.DS_Store
+Thumbs.db
